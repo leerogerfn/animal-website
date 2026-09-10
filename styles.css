@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(226, 182, 250);
+  font-family: sans-serif;
+}
+h3 {
+  color: blue;
+  text-align: center;
+}
+img {
+  border: 5px groove rgb(0, 0, 0);
+}
